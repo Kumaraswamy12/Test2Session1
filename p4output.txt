@@ -1,1 +1,5 @@
-
+~/Test2Session1-1$ gcc -g p4original.c
+~/Test2Session1-1$ ./a.out
+enter the Nth number
+9
+The fibonacci number at 9 position is 21
