@@ -1,1 +1,9 @@
-
+~/Test2Session1-1$ gcc -g p3original.c
+~/Test2Session1-1$ ./a.out
+Enter the number
+3
+3 is a prime number
+~/Test2Session1-1$ ./a.out
+Enter the number
+6
+6 is a composite number

@@ -1,1 +1,36 @@
-
+~/Test2Session1-1$ gcc -g p2original.c -lm
+~/Test2Session1-1$ ./a.out
+enter the coordinates of 1st point
+1 1
+enter the coordinates of 2nd point
+2 2
+enter the coordinates of 3rd point
+3 3
+The given points:
+1.000000 1.000000
+2.000000 2.000000
+3.000000 3.000000
+ don't form a triangle~/Test2Session1-1$ ./a.out
+enter the coordinates of 1st point
+1 2
+enter the coordinates of 2nd point
+2 3
+enter the coordinates of 3rd point
+3 4
+The given points:
+1.000000 2.000000
+2.000000 3.000000
+3.000000 4.000000
+ don't form a triangle~/Test2Session1-1$ ./a.out
+enter the coordinates of 1st point
+1 1
+enter the coordinates of 2nd point
+5 6
+enter the coordinates of 3rd point
+7
+9
+The given points:
+1.000000 1.000000
+5.000000 6.000000
+7.000000 9.000000
+forms a triangle
