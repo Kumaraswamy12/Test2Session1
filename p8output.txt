@@ -1,1 +1,21 @@
-
+~/Test2Session1-5$ gcc -g p8original.c -lm
+~/Test2Session1-5$ ./a.out
+Enter the number of sides in the polygon
+4
+Enter the points
+0 0
+Enter the points
+0 3
+Enter the points
+0 3
+Enter the points
+3 3
+Enter the points
+3 3
+Enter the points
+3 0
+Enter the points
+3 0
+Enter the points
+0 0
+The perimeter of 4 sided polygon is 12.000000
