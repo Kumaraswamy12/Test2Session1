@@ -1,1 +1,7 @@
-
+~/Test2Session1-5$ gcc -g p6original.c -lm
+~/Test2Session1-5$ ./a.out
+Enter the word:
+helloworldhello
+Enter the subword:
+world
+The Index of world in helloworldhello is 5

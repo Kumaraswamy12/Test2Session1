@@ -1,1 +1,7 @@
-
+~/Test2Session1-5$ gcc -g p7original.c -lm
+~/Test2Session1-5$ ./a.out
+Enter the points
+2 2
+Enter the points
+3 3 
+The Length of Line with coordinates (2.000000,2.000000) and (3.000000,3.000000) is 1.414214
